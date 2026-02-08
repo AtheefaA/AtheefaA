@@ -87,6 +87,7 @@
 
 <p align="center">
 <img src="https://github.com/AtheefaA/AtheefaA/blob/output/github-contribution-grid-snake.svg">
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
