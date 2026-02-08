@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hi 👋 I'm Atheefa 🌸</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&lines=Pre Final+Year+CSE+Student;AI+%26+Data+Analytics+Enthusiast;Web+Developer;Future+Software+Engineer;Welcome+to+My+GitHub+Profile">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&lines=PreFinal+Year+CSE+Student;AI+%26+Data+Analytics+Enthusiast;Web+Developer;Future+Software+Engineer;Welcome+to+My+GitHub+Profile">
 </p>
 
 ---
@@ -84,11 +84,9 @@
 <img src="https://github.com/AtheefaA/AtheefaA/blob/output/github-contribution-grid-snake.svg">
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
 
----
 
----
 
 ## 🌐 Connect With Me 💖
 
