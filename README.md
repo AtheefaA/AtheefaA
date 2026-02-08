@@ -18,12 +18,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
 
-## ✨ Coding Quote
+## 💭 My Coding Motivation
 
-💬 *"First, solve the problem. Then, write the code."*  
-— John Johnson  
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-0c4c9d0f-20a9-4aef-b4df-6b6f70e5b48c.gif" width="100%">
+
 
 
 ## 💻 Skills
