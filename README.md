@@ -4,7 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&lines=PreFinal+Year+CSE+Student;AI+%26+Data+Analytics+Enthusiast;Web+Developer;Future+Software+Engineer;Welcome+to+My+GitHub+Profile">
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+
 
 ## 💖 About Me
 
@@ -22,7 +23,8 @@
 💬 *"First, solve the problem. Then, write the code."*  
 — John Johnson  
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+
 
 ## 💻 Skills
 
@@ -52,7 +54,8 @@
 ✔ Canva  
 ✔ Figma  
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+
 
 ## 👩‍💻 Coding Profiles
 
@@ -60,7 +63,8 @@
 🔗 CodeChef → https://www.codechef.com/users/atheefa14 
 🔗 Skillrack → https://www.skillrack.com/faces/ui/profile.xhtml;jsessionid=257DF90C192D2F25046AB71F643FF593  
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+
 
 ## 📊 GitHub Analytics
 
@@ -76,7 +80,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtheefaA&theme=tokyonight">
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+
 
 ## 🐍 Contribution Snake Animation
 
@@ -123,6 +128,7 @@
 </p>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+
 
 <h3 align="center">✨ Thanks for visiting my profile 💖</h3>
