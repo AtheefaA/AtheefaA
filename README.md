@@ -32,7 +32,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-0c4c9d0f-20a9-4aef-b4df-6b6f70e5b48c.gif" width="100%">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
 
 ## 💻 Skills
 
