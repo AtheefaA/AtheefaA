@@ -16,7 +16,7 @@
 🎯 Goal → Software Developer / Data Analyst  
 ✨ Love creative design + coding projects  
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
 
 ## ✨ Coding Quote
 
@@ -60,7 +60,7 @@
 ## 👩‍💻 Coding Profiles
 
 🔗 LeetCode → https://leetcode.com/u/ZfMudSdJPY/  
-🔗 CodeChef → https://www.codechef.com/users/atheefa14 
+🔗 CodeChef → https://www.codechef.com/users/atheefa14/
 🔗 Skillrack → https://www.skillrack.com/faces/ui/profile.xhtml;jsessionid=257DF90C192D2F25046AB71F643FF593  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
