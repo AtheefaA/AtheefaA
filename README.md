@@ -103,18 +103,19 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtheefaA&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AtheefaA&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+
 
 
 
