@@ -152,7 +152,7 @@
   <img src="https://img.shields.io/badge/CodeChef-FF69B4?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
 
-<a href="shafaportfolio.netlify.app">
+<a href="https://shafaportfolio.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
