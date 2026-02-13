@@ -39,12 +39,10 @@
 ### 👩‍💻 Programming
 ✔ Java  
 ✔ JavaScript  
-✔ Python (Basics)
 
 ### 🌐 Web Development
 ✔ HTML, CSS  
 ✔ React JS  
-✔ Node JS (Basics)
 
 ### 📊 Data Analytics
 ✔ Power BI  
@@ -63,10 +61,6 @@
 ✔ Figma  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
-
-
-
-
 
 ## 📊 GitHub Analytics  
 
@@ -112,13 +106,9 @@
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-
-
 <a href="https://www.codechef.com/users/atheefa14">
   <img src="https://img.shields.io/badge/CodeChef-FF69B4?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
-
-
 
 </p>
 
