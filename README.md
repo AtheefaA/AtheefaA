@@ -65,39 +65,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
 
 
-## 👩‍💻 Coding Profiles & Achievements 💖
 
-<br/>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/ZfMudSdJPY/">
-<img src="https://img.shields.io/badge/LeetCode-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-
-<a href="https://www.codechef.com/users/atheefa14/">
-<img src="https://img.shields.io/badge/CodeChef-FF69B4?style=for-the-badge&logo=codechef&logoColor=white">
-</a>
-
-<a href="https://www.skillrack.com/faces/ui/profile.xhtml">
-<img src="https://img.shields.io/badge/Skillrack-FF69B4?style=for-the-badge&logo=code&logoColor=white">
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/ZfMudSdJPY?theme=unicorn&font=Baloo&ext=heatmap" />
-
-</div>
-
-<br/>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
 
 
 ## 📊 GitHub Analytics  
