@@ -112,9 +112,7 @@
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://leetcode.com/u/ZfMudSdJPY/">
-  <img src="https://img.shields.io/badge/LeetCode-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
+
 
 <a href="https://www.codechef.com/users/atheefa14">
   <img src="https://img.shields.io/badge/CodeChef-FF69B4?style=for-the-badge&logo=codechef&logoColor=white">
