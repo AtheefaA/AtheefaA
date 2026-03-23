@@ -21,7 +21,7 @@
 🎓 Pre-Final Year Computer Science Student  
 📊 Passionate about Data Analytics & Web Development  
 📈 Love turning raw data into meaningful insights  
-🌱 Currently learning React, Java & Advanced Analytics  
+🌱 Currently learning  Advanced Analytics  
 🎯 Goal → Software Developer / Data Analyst  
 ✨ Interested in building clean & user-friendly dashboards  
 
