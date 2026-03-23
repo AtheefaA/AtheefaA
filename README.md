@@ -1,44 +1,70 @@
-<h1 align="center">🌸 Hi 👋 I'm Atheefa 🌸</h1>
+<h1 align="center">💜 Hi 👋 I'm Sajarath Atheefa 💜</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&lines=PreFinal+Year+CSE+Student;AI+%26+Data+Analytics+Enthusiast;Web+Developer;Future+Software+Engineer;Welcome+to+My+GitHub+Profile">
+<img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=500&lines=Pre-Final+Year+CSE+Student;Data+Analytics+Enthusiast;Web+Developer;Future+Software+Engineer">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AtheefaA&label=Profile+Views&color=8A2BE2&style=flat" />
+</p>
 
+<p align="center">
+💼 <b>Portfolio:</b> <a href="https://shafaportfolio.netlify.app/">View My Work</a>
+</p>
 
-## 💖 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-🎓 Final Year Computer Science Student  
-💻 Passionate about AI, Data Analytics & Web Development  
-📊 Skilled in Power BI, Excel & Tableau  
-🌱 Currently learning React, Java & Analytics Tools  
+---
+
+## 💜 About Me
+
+🎓 Pre-Final Year Computer Science Student  
+📊 Passionate about Data Analytics & Web Development  
+📈 Love turning raw data into meaningful insights  
+🌱 Currently learning React, Java & Advanced Analytics  
 🎯 Goal → Software Developer / Data Analyst  
-✨ Love creative design + coding projects  
+✨ Interested in building clean & user-friendly dashboards  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+---
 
 ## 💭 My Coding Motivation
 
-<br/>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
 
-<div align="center">
+💜 *"I don’t just code to build projects — I code to solve problems, uncover insights, and create meaningful solutions from data."*
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+---
 
-</div>
+## 🚀 What I’m Working On
 
-<br/>
+🔹 Building Data Analytics Projects (SQL + Power BI)  
+🔹 Improving problem-solving skills on LeetCode  
+🔹 Creating responsive web applications  
+🔹 Learning real-world business data analysis  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284126-0c4c9d0f-20a9-4aef-b4df-6b6f70e5b48c.gif" width="100%">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+## 🏆 Featured Projects
+
+📊 **E-Commerce Sales Dashboard**  
+→ Built an interactive Power BI dashboard to analyze sales trends, customer behavior & revenue insights  
+
+📈 **Student Performance Analysis**  
+→ Used SQL & Excel to derive KPIs and visualize student performance data  
+
+🌐 **Portfolio Website**  
+→ Designed and developed a responsive portfolio using HTML, CSS & React  
+
+---
 
 ## 💻 Skills
 
 ### 👩‍💻 Programming
 ✔ Java  
 ✔ JavaScript  
+✔ Python
 
 ### 🌐 Web Development
 ✔ HTML, CSS  
@@ -48,11 +74,7 @@
 ✔ Power BI  
 ✔ Tableau  
 ✔ Excel  
-✔ Data Analytics  
-
-### 🗄 Database
-✔ MongoDB  
-✔ MySQL  
+✔ SQL  
 
 ### ⚙ Tools
 ✔ GitHub  
@@ -60,64 +82,86 @@
 ✔ Canva  
 ✔ Figma  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+---
+
+## 🧩 LeetCode Analytics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/ZfMudSdJPY?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
 
 ## 📊 GitHub Analytics  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&title_color=8A2BE2" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=AtheefaA&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=AtheefaA&theme=tokyonight&ring=8A2BE2&fire=8A2BE2" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+---
 
+## 📚 Currently Learning
 
-## 🐍 Contribution Snake Animation
+✔ Advanced SQL for Analytics  
+✔ Data Visualization Techniques  
+✔ React Development  
+✔ Business KPI Analysis  
+
+---
+
+## 🧠 Daily Fun Fact
 
 <p align="center">
-<img src="https://github.com/AtheefaA/AtheefaA/blob/output/github-contribution-grid-snake.svg">
-
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+---
 
-
-
-## 🌐 Connect With Me 💖
+## 🌐 Connect With Me 💜
 
 <p align="center">
 
 <a href="mailto:atheefa1406@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/sajarath-atheefa-a-aa3b212a1/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/AtheefaA">
-  <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.codechef.com/users/atheefa14">
-  <img src="https://img.shields.io/badge/CodeChef-FF69B4?style=for-the-badge&logo=codechef&logoColor=white">
+  <img src="https://img.shields.io/badge/CodeChef-8A2BE2?style=for-the-badge&logo=codechef&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/ZfMudSdJPY">
+  <img src="https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://www.hackerrank.com/profile/atheefa1406">
+  <img src="https://img.shields.io/badge/HackerRank-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white">
+</a>
+
+<a href="https://shafaportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 </p>
 
-<p align="center">
-✨ Let's connect, collaborate & grow together ✨
-</p>
+---
 
+<h3 align="center">✨ Let's connect, collaborate & grow together 💜</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
-
-
-<h3 align="center">✨ Thanks for visiting my profile 💖</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
