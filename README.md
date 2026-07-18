@@ -42,7 +42,7 @@ a living.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 **🎓 Education**
 Final-Year B.E. Computer Science Engineering
@@ -53,7 +53,7 @@ CGPA: **8.85** &nbsp;|&nbsp; Class of **2027**
 Tamil Nadu, India — open to remote-first roles
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 **🎯 Career Goal**
 Data Analyst / BI Analyst → Analytics Engineer
@@ -102,41 +102,48 @@ atheefa@devbox:~$ python run.py --mode=career
 ## `04` &nbsp; Skills Dashboard
 
 <table width="100%">
-<tr><td width="20%"><b>Programming</b></td><td>
-
-<img src="https://img.shields.io/badge/Python-2E0854?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-2E0854?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-2E0854?style=flat-square&logo=openjdk&logoColor=white"/>
-
-</td></tr>
-<tr><td><b>Analytics & BI</b></td><td>
-
-<img src="https://img.shields.io/badge/Power_BI-6A0DAD?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-6A0DAD?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-6A0DAD?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-6A0DAD?style=flat-square&logo=postgresql&logoColor=white"/>
-
-</td></tr>
-<tr><td><b>Data & ML Libraries</b></td><td>
-
-<img src="https://img.shields.io/badge/Pandas-4B0082?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-4B0082?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Prophet-4B0082?style=flat-square&logo=meta&logoColor=white"/>
-
-</td></tr>
-<tr><td><b>Frontend</b></td><td>
-
-<img src="https://img.shields.io/badge/React-8A2BE2?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-8A2BE2?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-8A2BE2?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-8A2BE2?style=flat-square&logo=vite&logoColor=white"/>
-
-</td></tr>
-<tr><td><b>Backend & DB</b></td><td>
-
-<img src="https://img.shields.io/badge/Node.js-6A0DAD?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-6A0DAD?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-6A0DAD?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-6A0DAD?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-
-</td></tr>
-<tr><td><b>Cloud & Deploy</b></td><td>
-
-<img src="https://img.shields.io/badge/Vercel-2E0854?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-2E0854?style=flat-square&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB_Atlas-2E0854?style=flat-square&logo=mongodb&logoColor=white"/>
-
-</td></tr>
-<tr><td><b>Tools</b></td><td>
-
-<img src="https://img.shields.io/badge/Git-4B0082?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-4B0082?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-4B0082?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-4B0082?style=flat-square&logo=figma&logoColor=white"/>
-
-</td></tr>
+<tr valign="middle">
+<td width="22%" align="left"><b>Programming</b></td>
+<td width="78%" align="left">
+<img src="https://img.shields.io/badge/Python-2E0854?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-2E0854?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-2E0854?style=flat-square&logo=openjdk&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td align="left"><b>Analytics & BI</b></td>
+<td align="left">
+<img src="https://img.shields.io/badge/Power_BI-6A0DAD?style=flat-square&logo=powerbi&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Tableau-6A0DAD?style=flat-square&logo=tableau&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Excel-6A0DAD?style=flat-square&logo=microsoftexcel&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SQL-6A0DAD?style=flat-square&logo=postgresql&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td align="left"><b>Data & ML Libraries</b></td>
+<td align="left">
+<img src="https://img.shields.io/badge/Pandas-4B0082?style=flat-square&logo=pandas&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/NumPy-4B0082?style=flat-square&logo=numpy&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Prophet-4B0082?style=flat-square&logo=meta&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td align="left"><b>Frontend</b></td>
+<td align="left">
+<img src="https://img.shields.io/badge/React-8A2BE2?style=flat-square&logo=react&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-8A2BE2?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-8A2BE2?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Vite-8A2BE2?style=flat-square&logo=vite&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td align="left"><b>Backend & DB</b></td>
+<td align="left">
+<img src="https://img.shields.io/badge/Node.js-6A0DAD?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Express-6A0DAD?style=flat-square&logo=express&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-6A0DAD?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JWT-6A0DAD?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td align="left"><b>Cloud & Deploy</b></td>
+<td align="left">
+<img src="https://img.shields.io/badge/Vercel-2E0854?style=flat-square&logo=vercel&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Render-2E0854?style=flat-square&logo=render&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB_Atlas-2E0854?style=flat-square&logo=mongodb&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td align="left"><b>Tools</b></td>
+<td align="left">
+<img src="https://img.shields.io/badge/Git-4B0082?style=flat-square&logo=git&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-4B0082?style=flat-square&logo=github&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/VS_Code-4B0082?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Figma-4B0082?style=flat-square&logo=figma&logoColor=white"/>
+</td>
+</tr>
 </table>
 
 <br>
@@ -144,36 +151,12 @@ atheefa@devbox:~$ python run.py --mode=career
 ## `05` &nbsp; Tech Radar
 
 <table width="100%">
-<tr><td width="28%">Power BI / DAX</td><td width="52%">
-
-`█████████████████░░░` 85%
-
-</td></tr>
-<tr><td>SQL</td><td>
-
-`███████████████░░░░░` 75%
-
-</td></tr>
-<tr><td>Excel / VBA</td><td>
-
-`██████████████████░░` 90%
-
-</td></tr>
-<tr><td>Python (Pandas/NumPy)</td><td>
-
-`████████████████░░░░` 80%
-
-</td></tr>
-<tr><td>React / Node.js</td><td>
-
-`███████████████░░░░░` 75%
-
-</td></tr>
-<tr><td>Tableau</td><td>
-
-`██████████████░░░░░░` 70%
-
-</td></tr>
+<tr><td width="24%" align="left">Power BI / DAX</td><td width="61%" align="left"><code>█████████████████░░░</code></td><td width="15%" align="right">85%</td></tr>
+<tr><td align="left">SQL</td><td align="left"><code>███████████████░░░░░</code></td><td align="right">75%</td></tr>
+<tr><td align="left">Excel / VBA</td><td align="left"><code>██████████████████░░</code></td><td align="right">90%</td></tr>
+<tr><td align="left">Python (Pandas/NumPy)</td><td align="left"><code>████████████████░░░░</code></td><td align="right">80%</td></tr>
+<tr><td align="left">React / Node.js</td><td align="left"><code>███████████████░░░░░</code></td><td align="right">75%</td></tr>
+<tr><td align="left">Tableau</td><td align="left"><code>██████████████░░░░░░</code></td><td align="right">70%</td></tr>
 </table>
 
 <br>
@@ -182,7 +165,7 @@ atheefa@devbox:~$ python run.py --mode=career
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🏥 Smart Hospital Queue Management
 ![status](https://img.shields.io/badge/status-Live-6A0DAD?style=flat-square)
@@ -200,7 +183,7 @@ Real-time queue management system for hospitals with role-based access for patie
 [`Repo`](https://github.com/AtheefaA/Hospital-Queue-Management-System)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 📈 RetailPulse — Retail Analytics Dashboard
 ![status](https://img.shields.io/badge/status-Complete-6A0DAD?style=flat-square)
@@ -218,7 +201,7 @@ Independent analytics project on large-scale retail transaction data, built as a
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 📊 Power BI Sales Dashboard
 ![status](https://img.shields.io/badge/status-Complete-8A2BE2?style=flat-square)
@@ -233,7 +216,7 @@ Interactive Power BI dashboard analyzing sales trends, customer behavior, and re
 - 💡 Revenue insight breakdowns
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ⚙️ Excel Automation Suite
 ![status](https://img.shields.io/badge/status-Complete-8A2BE2?style=flat-square)
@@ -311,7 +294,7 @@ Personal portfolio built to showcase projects with a clean, modern interface.
 ## `09` &nbsp; Coding Activity
 
 <table width="100%">
-<tr><td width="50%" valign="top">
+<tr><td width="50%" valign="top" align="left">
 
 **⌛ WakaTime Weekly**
 ```text
@@ -319,13 +302,14 @@ Python       ████████████░░░░   58%
 SQL/DAX      ██████░░░░░░░░░░   28%
 JavaScript   ███░░░░░░░░░░░░░   14%
 ```
+*(connect WakaTime to make this live)*
 
 **💬 Dev Quote**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 **📝 Recent Commits**
 
@@ -358,12 +342,12 @@ JavaScript   ███░░░░░░░░░░░░░   14%
 
 <table width="100%">
 <tr>
-<td align="center" width="16%">☕<br><b>Coffee Meter</b><br>████████░░ 80%</td>
-<td align="center" width="16%">🎧<br><b>On Repeat</b><br>Tamil music</td>
-<td align="center" width="16%">🖥️<br><b>Editor</b><br>VS Code</td>
-<td align="center" width="16%">🌙<br><b>Mood</b><br>Building</td>
-<td align="center" width="16%">⏱️<br><b>This Week</b><br>Deep in dashboards</td>
-<td align="center" width="16%">⌨️<br><b>Go-To Command</b><br><code>git commit -m</code></td>
+<td align="center" valign="top" width="16.66%">☕<br><b>Coffee Meter</b><br>████████░░ 80%</td>
+<td align="center" valign="top" width="16.66%">🎧<br><b>On Repeat</b><br>Tamil music</td>
+<td align="center" valign="top" width="16.66%">🖥️<br><b>Editor</b><br>VS Code</td>
+<td align="center" valign="top" width="16.66%">🌙<br><b>Mood</b><br>Building</td>
+<td align="center" valign="top" width="16.66%">⏱️<br><b>This Week</b><br>Deep in dashboards</td>
+<td align="center" valign="top" width="16.66%">⌨️<br><b>Go-To Command</b><br><code>git commit -m</code></td>
 </tr>
 </table>
 
