@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,50:6A0DAD,100:8A2BE2&height=280&section=header&text=SAJARATH%20ATHEEFA&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Turning%20Data%20into%20Decisions&descAlignY=55&descSize=22&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Data+Analyst+%7C+BI+Analyst+%7C+Full-Stack+Developer;Final-Year+CSE+Engineer+%C2%B7+Class+of+2027;Building+dashboards+people+actually+understand" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Data+Analyst+%7C+BI+Analyst+%7C+Full-Stack+Dev;Final-Year+CSE+Engineer+%C2%B7+Class+of+2027;Building+dashboards+people+understand" style="width:100%;max-width:650px;height:auto;" />
 
 <br>
 
