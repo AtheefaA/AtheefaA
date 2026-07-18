@@ -1,96 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:2E0854&height=180&section=header&text=Sajarath%20Atheefa&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Turning%20Raw%20Data%20Into%20Decisions&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,50:6A0DAD,100:8A2BE2&height=280&section=header&text=SAJARATH%20ATHEEFA&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Turning%20Data%20into%20Decisions&descAlignY=55&descSize=22&fontAlign=50" width="100%"/>
 
-<!--
-  📷 SWAP-IN SPOT: drop your own headshot here — recruiters trust a real photo
-  far more than a stock image. Something like:
-  <img src="your-photo-url.jpg" width="150" style="border-radius:50%;border:3px solid #6A0DAD;"/>
--->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Data+Analyst+%7C+BI+Analyst+%7C+Full-Stack+Developer;Final-Year+CSE+Engineer+%C2%B7+Class+of+2027;Building+dashboards+people+actually+understand" />
 
-### 📊 Data Analyst in the making · 💻 Full-Stack Builder · 🎓 Final-Year CSE, Class of 2027
+<br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=SELECT+insight+FROM+raw_data;WHERE+curiosity+%3D+TRUE;git+commit+-m+%22always+learning%22" />
+<img src="https://img.shields.io/badge/STATUS-Open_to_Work-6A0DAD?style=for-the-badge&labelColor=2E0854"/>
+<img src="https://img.shields.io/badge/LOCATION-Tamil_Nadu,_India-8A2BE2?style=for-the-badge&labelColor=2E0854"/>
+<img src="https://img.shields.io/badge/GRADUATING-2027-4B0082?style=for-the-badge&labelColor=2E0854"/>
 
 </div>
 
-<br>
-
-## 🧭 Quick Read
-
-> I don't just visualize data — I chase the story hiding inside it, then ship it as a working product.
-> CGPA **8.85** · Francis Xavier Engineering College · Actively seeking **Data Analyst / BI Analyst** internships and off-campus roles (remote-friendly, India).
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
 <br>
 
-## 🖥️ Terminal Snapshot
+## `01` &nbsp; Introduction
 
-```bash
-atheefa@portfolio:~$ whoami
-> Final-year CSE student | Data Analytics + Full-Stack Development
+<table width="100%">
+<tr><td>
 
-atheefa@portfolio:~$ cat current_focus.txt
-> Building portfolio-grade analytics + full-stack projects
-> Targeting: Data Analyst / BI roles across India (WFH preferred)
+```
+I turn spreadsheets into strategy and messy data into clean signal.
 
-atheefa@portfolio:~$ ls skills/
-analytics/   web-dev/   automation/   databases/
+Somewhere between a SQL query and a React component, I found the
+part of engineering I actually love: taking something confusing
+and making it make sense to someone else.
 
-atheefa@portfolio:~$ ./run_project.sh --list
-[✓] RetailPulse            → RFM segmentation + Prophet forecasting
-[✓] Hospital Queue System  → MERN stack, JWT auth, role-based access
-[✓] Sales Ops Automation   → Excel VBA, 3-module ETL pipeline
+Currently building portfolio-grade analytics and full-stack systems
+while hunting for a Data Analyst / BI role where I can do that for
+a living.
 ```
 
+</td></tr>
+</table>
+
 <br>
 
-## 🚀 Projects That Prove It
+## `02` &nbsp; About Me
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Smart Hospital Queue Management
-**Full-stack MERN system** for real-time patient queue tracking across patient / doctor / admin roles.
+**🎓 Education**
+Final-Year B.E. Computer Science Engineering
+Francis Xavier Engineering College
+CGPA: **8.85** &nbsp;|&nbsp; Class of **2027**
 
-- 🔐 JWT-based role authentication
-- ⚛️ React (Vite) frontend · Node/Express backend
-- 🗄️ MongoDB Atlas · deployed on Vercel + Render
-- 📱 Responsive UI with dynamic navigation
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 RetailPulse — Customer Analytics
-**Independent analytics project** on large-scale retail transaction data.
-
-- 🧮 RFM customer segmentation
-- 🔮 Time-series forecasting with Prophet
-- 🐍 Python · Pandas · NumPy
-- 🎯 Portfolio centerpiece for analyst roles
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Sales Data Automation Suite
-**Excel VBA pipeline** — 3 modules, zero manual cleanup.
-
-- 🧹 Automated data cleaning module
-- 📊 Dynamic PivotTable generation
-- 🎨 Custom purple-themed dashboard UI
-- 🐛 Hardened against overflow & layout edge cases
+**📍 Based In**
+Tamil Nadu, India — open to remote-first roles
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio & Web Projects
-**Design-forward front-end work** beyond the dashboard.
+**🎯 Career Goal**
+Data Analyst / BI Analyst → Analytics Engineer
 
-- 💻 [shafaportfolio.netlify.app](https://shafaportfolio.netlify.app/)
-- 🎨 Glassmorphism UI, animation, interactivity
-- 📱 Fully responsive, mobile-first builds
+**🔭 Current Focus**
+Data Analytics · Full-Stack Web Development
+
+**💜 Beyond the Code**
+Tamil music & culture, dashboard design, clean UI
 
 </td>
 </tr>
@@ -98,62 +70,327 @@ atheefa@portfolio:~$ ./run_project.sh --list
 
 <br>
 
-## 🧰 Tech Stack
+## `03` &nbsp; Terminal Session
 
-<div align="center">
+```bash
+atheefa@devbox:~$ whoami
+Sajarath Atheefa — Data Analyst & Full-Stack Developer
 
-**Analytics & BI**
+atheefa@devbox:~$ cat goals.txt
+[1] Land a Data Analyst / BI Analyst internship or trainee role
+[2] Ship polished full-stack projects for my portfolio
+[3] Go deep on advanced SQL + applied ML
+[4] Graduate CSE, 2027 — CGPA 8.85 and climbing
 
-<img src="https://img.shields.io/badge/Power_BI-6A0DAD?style=for-the-badge&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-6A0DAD?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-6A0DAD?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white"/>
+atheefa@devbox:~$ ls skills/
+analytics/  visualization/  databases/  frontend/  backend/  tools/
 
-**Languages & Frameworks**
+atheefa@devbox:~$ git status
+On branch main
+Your career is up to date with 'origin/opportunities'.
+nothing to commit, everything shipped.
 
-<img src="https://img.shields.io/badge/Python-2E0854?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-2E0854?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-2E0854?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-2E0854?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-**Data & Infra**
-
-<img src="https://img.shields.io/badge/MongoDB-8A2BE2?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-8A2BE2?style=for-the-badge&logo=render&logoColor=white"/>
-
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&border_color=6A0DAD&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&title_color=8A2BE2&border_color=6A0DAD&hide_border=false" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=AtheefaA&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&border=6A0DAD" width="600"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtheefaA&theme=tokyo-night&color=8A2BE2&line=8A2BE2&point=ffffff&hide_border=false" width="600"/>
-</div>
-
-<br>
-
-## 🎯 What I'm Looking For
-
-```
-role_type    : Data Analyst · BI Analyst · Junior Full-Stack Developer
-work_mode    : Remote / Work-from-home preferred
-availability : Internships, off-campus drives, trainee programs (Grad: 2027)
-open_to      : Relocation for the right opportunity
+atheefa@devbox:~$ python run.py --mode=career
+>>> Loading candidate profile... done.
+>>> Match found: Data Analyst / BI / Full-Stack roles
+>>> Availability: Internships · Off-campus drives · Trainee programs
+>>> Result: READY TO CONTRIBUTE ✔
 ```
 
 <br>
 
-## 📬 Let's Connect
+## `04` &nbsp; Skills Dashboard
+
+<table width="100%">
+<tr><td width="20%"><b>Programming</b></td><td>
+
+<img src="https://img.shields.io/badge/Python-2E0854?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-2E0854?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-2E0854?style=flat-square&logo=openjdk&logoColor=white"/>
+
+</td></tr>
+<tr><td><b>Analytics & BI</b></td><td>
+
+<img src="https://img.shields.io/badge/Power_BI-6A0DAD?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-6A0DAD?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-6A0DAD?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-6A0DAD?style=flat-square&logo=postgresql&logoColor=white"/>
+
+</td></tr>
+<tr><td><b>Data & ML Libraries</b></td><td>
+
+<img src="https://img.shields.io/badge/Pandas-4B0082?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-4B0082?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Prophet-4B0082?style=flat-square&logo=meta&logoColor=white"/>
+
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+
+<img src="https://img.shields.io/badge/React-8A2BE2?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-8A2BE2?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-8A2BE2?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-8A2BE2?style=flat-square&logo=vite&logoColor=white"/>
+
+</td></tr>
+<tr><td><b>Backend & DB</b></td><td>
+
+<img src="https://img.shields.io/badge/Node.js-6A0DAD?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-6A0DAD?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-6A0DAD?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-6A0DAD?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+</td></tr>
+<tr><td><b>Cloud & Deploy</b></td><td>
+
+<img src="https://img.shields.io/badge/Vercel-2E0854?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-2E0854?style=flat-square&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB_Atlas-2E0854?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</td></tr>
+<tr><td><b>Tools</b></td><td>
+
+<img src="https://img.shields.io/badge/Git-4B0082?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-4B0082?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-4B0082?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-4B0082?style=flat-square&logo=figma&logoColor=white"/>
+
+</td></tr>
+</table>
+
+<br>
+
+## `05` &nbsp; Tech Radar
+
+<table width="100%">
+<tr><td width="28%">Power BI / DAX</td><td width="52%">
+
+`█████████████████░░░` 85%
+
+</td></tr>
+<tr><td>SQL</td><td>
+
+`███████████████░░░░░` 75%
+
+</td></tr>
+<tr><td>Excel / VBA</td><td>
+
+`██████████████████░░` 90%
+
+</td></tr>
+<tr><td>Python (Pandas/NumPy)</td><td>
+
+`████████████████░░░░` 80%
+
+</td></tr>
+<tr><td>React / Node.js</td><td>
+
+`███████████████░░░░░` 75%
+
+</td></tr>
+<tr><td>Tableau</td><td>
+
+`██████████████░░░░░░` 70%
+
+</td></tr>
+</table>
+
+<br>
+
+## `06` &nbsp; Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Smart Hospital Queue Management
+![status](https://img.shields.io/badge/status-Live-6A0DAD?style=flat-square)
+
+Real-time queue management system for hospitals with role-based access for patients, doctors, and admins.
+
+**Stack:** React (Vite) · Node.js/Express · MongoDB Atlas · JWT
+
+**Highlights**
+- 🔐 Role-based auth (patient / doctor / admin)
+- 📱 Fully responsive UI with dynamic navigation
+- ☁️ Deployed on Vercel (frontend) + Render (backend)
+- 🔄 User-scoped live queue tracking
+
+[`Repo`](https://github.com/AtheefaA/Hospital-Queue-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 RetailPulse — Retail Analytics Dashboard
+![status](https://img.shields.io/badge/status-Complete-6A0DAD?style=flat-square)
+
+Independent analytics project on large-scale retail transaction data, built as a portfolio centerpiece.
+
+**Stack:** Python · Pandas · NumPy · Prophet
+
+**Highlights**
+- 🧮 RFM customer segmentation
+- 🔮 Time-series sales forecasting
+- 📊 Insight-driven recommendations
+- 🎯 End-to-end analyst workflow
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Power BI Sales Dashboard
+![status](https://img.shields.io/badge/status-Complete-8A2BE2?style=flat-square)
+
+Interactive Power BI dashboard analyzing sales trends, customer behavior, and revenue performance.
+
+**Stack:** Power BI · DAX · Excel
+
+**Highlights**
+- 📈 Trend & KPI visualizations
+- 🧩 Drill-down customer behavior views
+- 💡 Revenue insight breakdowns
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Excel Automation Suite
+![status](https://img.shields.io/badge/status-Complete-8A2BE2?style=flat-square)
+
+A 3-module VBA pipeline that automates cleaning, pivoting, and dashboard-building for raw sales data.
+
+**Stack:** Excel · VBA
+
+**Highlights**
+- 🧹 Automated data cleaning module
+- 📊 Dynamic PivotTable generation
+- 🎨 Custom purple-themed dashboard UI
+- 🐛 Hardened against overflow & layout bugs
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌐 Portfolio Website
+![status](https://img.shields.io/badge/status-Live-4B0082?style=flat-square)
+
+Personal portfolio built to showcase projects with a clean, modern interface.
+
+**Stack:** React · HTML · CSS
+
+[`Live Demo`](https://shafaportfolio.netlify.app/)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `07` &nbsp; Milestones
+
+```
+2027 ○ ── B.E. Computer Science Engineering (Expected)
+       │
+ Now   ● ── Actively interviewing: Data Analyst / BI Analyst roles
+       │
+       ○ ── RetailPulse: RFM + Prophet forecasting project
+       │
+       ○ ── Smart Hospital Queue Management (full-stack, deployed)
+       │
+       ○ ── Excel VBA 3-module automation pipeline
+       │
+       ○ ── Began CSE, Francis Xavier Engineering College
+```
+*(Add certifications, hackathons, and internships here as you earn them — this timeline is built to grow.)*
+
+<br>
+
+## `08` &nbsp; GitHub Analytics
 
 <div align="center">
 
-<a href="mailto:atheefa1406@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sajarath-atheefa-a-aa3b212a1/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/AtheefaA"><img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/atheefa14"><img src="https://img.shields.io/badge/CodeChef-6A0DAD?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://leetcode.com/ZfMudSdJPY"><img src="https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/atheefa1406"><img src="https://img.shields.io/badge/HackerRank-6A0DAD?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://shafaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&border_color=6A0DAD&hide_border=false&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&title_color=8A2BE2&border_color=6A0DAD&hide_border=false" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=AtheefaA&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&border=6A0DAD" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AtheefaA&theme=algolia&column=4&margin-w=8&margin-h=8&no-frame=true" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtheefaA&theme=tokyo-night&color=8A2BE2&line=8A2BE2&point=ffffff&hide_border=false" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/AtheefaA/AtheefaA/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=AtheefaA&label=Profile%20Views&color=6A0DAD&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AtheefaA?label=Followers&style=for-the-badge&color=6A0DAD"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,100:6A0DAD&height=120&section=footer" width="100%"/>
+<br>
+
+## `09` &nbsp; Coding Activity
+
+<table width="100%">
+<tr><td width="50%" valign="top">
+
+**⌛ WakaTime Weekly**
+```text
+Python       ████████████░░░░   58%
+SQL/DAX      ██████░░░░░░░░░░   28%
+JavaScript   ███░░░░░░░░░░░░░   14%
+```
+*(connect WakaTime to make this live)*
+
+**💬 Dev Quote**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</td>
+<td width="50%" valign="top">
+
+**📝 Recent Commits**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtheefaA&theme=tokyo-night&hide_title=true" width="100%"/>
+
+**😄 Daily Fun Fact**
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `10` &nbsp; Currently Leveling Up
+
+| Track | Focus |
+|---|---|
+| 🧠 **SQL (Advanced)** | Window functions, query optimization |
+| 🐍 **Python** | Applied ML for analytics workflows |
+| 📊 **Power BI** | Advanced DAX & data modeling |
+| 🤖 **Machine Learning** | Foundations for predictive analytics |
+| 🏗️ **Data Engineering** | Pipelines & warehousing basics |
+| ☁️ **Cloud** | Deployment & scalable data infra |
+
+<br>
+
+## `11` &nbsp; Fun Zone
+
+<table width="100%">
+<tr>
+<td align="center" width="16%">☕<br><b>Coffee Meter</b><br>████████░░ 80%</td>
+<td align="center" width="16%">🎧<br><b>On Repeat</b><br>Tamil music</td>
+<td align="center" width="16%">🖥️<br><b>Editor</b><br>VS Code</td>
+<td align="center" width="16%">🌙<br><b>Mood</b><br>Building</td>
+<td align="center" width="16%">⏱️<br><b>This Week</b><br>Deep in dashboards</td>
+<td align="center" width="16%">⌨️<br><b>Go-To Command</b><br><code>git commit -m</code></td>
+</tr>
+</table>
+
+<br>
+
+## `12` &nbsp; Let's Connect
+
+<div align="center">
+
+<a href="mailto:atheefa1406@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://www.linkedin.com/in/sajarath-atheefa-a-aa3b212a1/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://shafaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://github.com/AtheefaA"><img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://leetcode.com/ZfMudSdJPY"><img src="https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://www.hackerrank.com/profile/atheefa1406"><img src="https://img.shields.io/badge/HackerRank-6A0DAD?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://www.codechef.com/users/atheefa14"><img src="https://img.shields.io/badge/CodeChef-6A0DAD?style=for-the-badge&logo=codechef&logoColor=white&labelColor=2E0854"/></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Data tells stories.*
+*I make people understand them."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A0DAD,100:2E0854&height=180&section=footer" width="100%"/>
+
+</div>
