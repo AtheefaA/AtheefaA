@@ -319,7 +319,6 @@ Python       ████████████░░░░   58%
 SQL/DAX      ██████░░░░░░░░░░   28%
 JavaScript   ███░░░░░░░░░░░░░   14%
 ```
-*(connect WakaTime to make this live)*
 
 **💬 Dev Quote**
 
