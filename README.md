@@ -115,28 +115,63 @@ alt="Header"
   />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/sajarathatheefa/">
+    <img
+      src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="LeetCode Profile"
+    />
+  </a>
+</p>
+
 ---
 
-## 📊 GitHub Analytics
+## 💜 GitHub Analytics ✨
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="280"
+    alt="Cute Coding Animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=✨+Code+%7C+Learn+%7C+Build+%7C+Repeat+✨;💜+Turning+Ideas+Into+Projects;🚀+Growing+One+Commit+At+A+Time;🌸+Keep+Coding+Keep+Growing+🌸"
+    alt="GitHub Motivation"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&hide_border=true"
+    height="180"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&title_color=8A2BE2"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&title_color=8A2BE2&hide_border=true"
+    height="180"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=AtheefaA&theme=tokyonight&ring=8A2BE2&fire=8A2BE2"
+    src="https://streak-stats.demolab.com/?user=AtheefaA&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&hide_border=true"
     alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=💜+One+Commit+Closer+Every+Day;✨+Learning+Something+New;🚀+Building+My+Future;🌸+Keep+Coding+Keep+Growing+🌸"
+    alt="Coding Animation"
   />
 </p>
 
@@ -233,6 +268,10 @@ alt="Header"
 <h3 align="center">
   ✨ Let's connect, collaborate & grow together 💜
 </h3>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🌸</i>
+</p>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"
