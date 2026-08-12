@@ -1,11 +1,17 @@
 <h1 align="center">💜 Hi 👋 I'm Sajarath Atheefa 💜</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=500&lines=Final+Year+CSE+Student;Data+Analytics+Enthusiast;Web+Developer;Future+Software+Engineer" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=500&lines=Final+Year+CSE+Student;Data+Analytics+Enthusiast;Web+Developer;Future+Software+Engineer"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtheefaA&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=AtheefaA&label=Profile+Views&color=8A2BE2&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
@@ -13,7 +19,11 @@
   <a href="https://shafaportfolio.netlify.app/">View My Work</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" width="100%" />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"
+width="100%"
+alt="Header"
+/>
 
 ---
 
@@ -31,7 +41,10 @@
 ## 💭 My Coding Motivation
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Coding Quote" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Coding Quote"
+  />
 </p>
 
 > 💜 *"I don’t just code to build projects — I code to solve problems, uncover insights, and create meaningful solutions from data."*
@@ -97,7 +110,7 @@
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/ZfMudSdJPY?theme=dark&font=Baloo&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/sajarathatheefa?theme=dark&font=Baloo&ext=heatmap"
     alt="LeetCode Stats"
   />
 </p>
@@ -192,7 +205,7 @@
     />
   </a>
 
-  <a href="https://leetcode.com/ZfMudSdJPY">
+  <a href="https://leetcode.com/u/sajarathatheefa/">
     <img
       src="https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white"
       alt="LeetCode"
@@ -224,4 +237,5 @@
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"
 width="100%"
+alt="Footer"
 />
