@@ -1,6 +1,10 @@
 # 💜 Sajarath Atheefa
 
 <p align="center">
+  <img src="profile.jpg" width="180" height="180" style="border-radius:50%;" alt="Sajarath Atheefa" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;Full+Stack+Web+Developer;Problem+Solver+%7C+LeetCode+Learner;Building+Ideas+Into+Real+Projects" alt="Typing Animation" />
 </p>
 
@@ -38,7 +42,7 @@ I enjoy transforming ideas into practical applications, exploring data to discov
 
 ---
 
-## 💡 My Developer Philosophy
+## 💡 Developer Philosophy
 
 <p align="center">
 
@@ -151,6 +155,37 @@ A responsive developer portfolio showcasing my projects, technical skills, achie
 
 ---
 
+# 💜 GitHub Analytics
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=8A2BE2&center=true&vCenter=true&width=650&lines=📊+Analyzing+My+GitHub+Journey...;🚀+Tracking+Every+Commit;💻+Building+%7C+Learning+%7C+Contributing;✨+Growing+One+Repository+At+A+Time" alt="GitHub Analytics Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&hide_border=true&count_private=true" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&title_color=8A2BE2&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AtheefaA&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtheefaA&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=✨+Every+Commit+Tells+a+Story;💜+Every+Repository+Represents+Growth;🚀+Keep+Building+Keep+Learning" alt="GitHub Growth Animation" />
+</p>
+
+---
+
 ## 🧠 LeetCode Journey
 
 <p align="center">
@@ -165,19 +200,6 @@ A responsive developer portfolio showcasing my projects, technical skills, achie
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2600&pause=700&color=8A2BE2&center=true&vCenter=true&width=600&lines=Solving+Problems+One+Step+At+A+Time;Learning+Algorithms+Through+Practice;Think+%7C+Code+%7C+Debug+%7C+Improve" alt="LeetCode Animation" />
-</p>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&title_color=8A2BE2&hide_border=true" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AtheefaA&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -201,23 +223,8 @@ A responsive developer portfolio showcasing my projects, technical skills, achie
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtheefaA/AtheefaA/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/AtheefaA/AtheefaA/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
-
----
-
-## 🎯 My Goals
-
-```text
-2026 ───────────────────────────────►
-
-✔ Strengthen Data Analytics Skills
-✔ Improve SQL & DSA
-✔ Build Real-World Projects
-✔ Contribute More to Open Source
-✔ Grow My GitHub & Developer Portfolio
-✔ Prepare for Software / Data Analyst Opportunities
-```
 
 ---
 
@@ -258,9 +265,7 @@ A responsive developer portfolio showcasing my projects, technical skills, achie
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=✨+Thanks+for+visiting+my+profile!;💜+Let's+connect+%26+build+something+amazing;🚀+Keep+Coding+%7C+Keep+Learning+%7C+Keep+Growing" alt="Footer Animation" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=✨+Thanks+for+visiting+my+profile!;💜+Let's+connect+%26+build+something+amazing;🚀+Keep+Coding+%7C+Keep+Learning+%7C+Keep+Growing" alt="Footer Animation" />
 </p>
 
 <p align="center">
