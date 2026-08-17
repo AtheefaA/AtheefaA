@@ -46,16 +46,16 @@ I enjoy transforming ideas into practical applications, exploring data to discov
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/qgQUggACo5Z3uQ9f5L/giphy.gif" 
-    width="350" 
-    alt="Developer Coding at Computer Animation" 
+    src="./developer.gif"
+    width="350"
+    alt="Developer Coding Animation"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=💜+Build+with+purpose.;✨+Learn+something+new+every+day.;🚀+Turn+ideas+into+real+projects.;📊+Turn+data+into+meaningful+insights.;🧠+Solve+problems%2C+not+just+errors.;🌸+Keep+coding.+Keep+growing." 
-    alt="Daily Developer Philosophy" 
+    alt="Developer Philosophy"
   />
 </p>
 
