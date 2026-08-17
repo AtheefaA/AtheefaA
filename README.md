@@ -1,15 +1,15 @@
 # 💜 Sajarath Atheefa
 
 <p align="center">
-  <img src="Profile.jpeg" width="180" height="180" style="border-radius:50%;" alt="Sajarath Atheefa" />
+  <img src="Profile.jpeg" width="240" height="240" alt="Sajarath Atheefa" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;Full+Stack+Web+Developer;Problem+Solver+%7C+LeetCode+Learner;Building+Ideas+Into+Real+Projects" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=750&lines=Final+Year+Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;Full+Stack+Web+Developer;Problem+Solver+%7C+LeetCode+Learner;Building+Ideas+Into+Real+Projects" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtheefaA&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AtheefaA&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -45,14 +45,26 @@ I enjoy transforming ideas into practical applications, exploring data to discov
 ## 💡 Developer Philosophy
 
 <p align="center">
-
-> **"Build with purpose. Learn continuously. Solve problems. Create impact."**
-
+  <img 
+    src="https://media.giphy.com/media/qgQUggACo5Z3uQ9f5L/giphy.gif" 
+    width="350" 
+    alt="Developer Coding at Computer Animation" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=700&color=8A2BE2&center=true&vCenter=true&width=650&lines=Code+%7C+Analyze+%7C+Build+%7C+Improve;Turning+Data+Into+Insights;Turning+Ideas+Into+Projects;One+Commit+Closer+Every+Day" alt="Developer Philosophy Animation" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=💜+Build+with+purpose.;✨+Learn+something+new+every+day.;🚀+Turn+ideas+into+real+projects.;📊+Turn+data+into+meaningful+insights.;🧠+Solve+problems%2C+not+just+errors.;🌸+Keep+coding.+Keep+growing." 
+    alt="Daily Developer Philosophy" 
+  />
 </p>
+
+<p align="center">
+  <i>
+    "Build with purpose. Learn continuously. Solve problems. Create impact."
+  </i>
+</p>
+
 
 ---
 
@@ -158,10 +170,6 @@ A responsive developer portfolio showcasing my projects, technical skills, achie
 # 💜 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=8A2BE2&center=true&vCenter=true&width=650&lines=📊+Analyzing+My+GitHub+Journey...;🚀+Tracking+Every+Commit;💻+Building+%7C+Learning+%7C+Contributing;✨+Growing+One+Repository+At+A+Time" alt="GitHub Analytics Animation" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtheefaA&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&hide_border=true&count_private=true" height="180" alt="GitHub Statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtheefaA&layout=compact&theme=tokyonight&title_color=8A2BE2&hide_border=true" height="180" alt="Top Languages" />
 </p>
@@ -176,12 +184,6 @@ A responsive developer portfolio showcasing my projects, technical skills, achie
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtheefaA&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=✨+Every+Commit+Tells+a+Story;💜+Every+Repository+Represents+Growth;🚀+Keep+Building+Keep+Learning" alt="GitHub Growth Animation" />
 </p>
 
 ---
@@ -199,7 +201,7 @@ A responsive developer portfolio showcasing my projects, technical skills, achie
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2600&pause=700&color=8A2BE2&center=true&vCenter=true&width=600&lines=Solving+Problems+One+Step+At+A+Time;Learning+Algorithms+Through+Practice;Think+%7C+Code+%7C+Debug+%7C+Improve" alt="LeetCode Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=🧠+Think+%7C+Code+%7C+Debug+%7C+Improve;💻+Solving+Problems+One+Step+At+A+Time;🚀+Learning+Algorithms+Through+Practice" alt="LeetCode Animation" />
 </p>
 
 ---
@@ -207,7 +209,7 @@ A responsive developer portfolio showcasing my projects, technical skills, achie
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Advanced+SQL+for+Analytics;Business+KPI+Analysis;Data+Visualization;React+Development;Problem+Solving+%26+DSA" alt="Currently Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Advanced+SQL+for+Analytics;Business+KPI+Analysis;Data+Visualization;React+Development;Problem+Solving+%26+DSA" alt="Currently Learning" />
 </p>
 
 | Area                     | Focus                            |
@@ -265,7 +267,7 @@ A responsive developer portfolio showcasing my projects, technical skills, achie
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=✨+Thanks+for+visiting+my+profile!;💜+Let's+connect+%26+build+something+amazing;🚀+Keep+Coding+%7C+Keep+Learning+%7C+Keep+Growing" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=✨+Thanks+for+visiting+my+profile!;💜+Let's+connect+%26+build+something+amazing;🚀+Keep+Coding+%7C+Keep+Learning+%7C+Keep+Growing" alt="Footer Animation" />
 </p>
 
 <p align="center">
