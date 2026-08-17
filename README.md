@@ -1,7 +1,7 @@
 # 💜 Sajarath Atheefa
 
 <p align="center">
-  <img src="profile.jpg" width="180" height="180" style="border-radius:50%;" alt="Sajarath Atheefa" />
+  <img src="Profile.jpeg" width="180" height="180" style="border-radius:50%;" alt="Sajarath Atheefa" />
 </p>
 
 <p align="center">
