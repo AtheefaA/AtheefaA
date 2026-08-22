@@ -115,11 +115,21 @@ An end-to-end analytics project focused on understanding e-commerce sales and cu
 
 ---
 
-### 🏥 Hospital Queue Management System
+### 🤖 AI E-Learning Platform
 
-A web application designed to manage hospital queues and improve the patient waiting experience.
+An AI-powered e-learning platform designed to provide students with a smarter and more personalized learning experience. The project focuses on combining modern web technologies with AI-based learning features.
 
-**Tech:** `React` `Node.js` `Express` `MongoDB`
+**Highlights:**
+
+* 🤖 AI-powered learning assistance
+* 📚 Designed for personalized student learning
+* 🎯 Focused on improving the online learning experience
+* 💻 Built with a modern and responsive interface
+* 🌱 Combines education, technology, and AI
+
+**Tech:** `HTML` `CSS` `JavaScript` `AI`
+
+🔗 **[View Project](https://github.com/AtheefaA/AI-ELearning-Platform)**
 
 ---
 
